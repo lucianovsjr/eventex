@@ -2,6 +2,7 @@
 
 Sistema de Eventos Encomendado pela Morena.
 [![Build Status](https://travis-ci.org/lucianovsjr/eventex.svg?branch=master)](https://travis-ci.org/lucianovsjr/eventex)
+[![Code Health](https://landscape.io/github/lucianovsjr/eventex/master/landscape.svg?style=flat)](https://landscape.io/github/lucianovsjr/eventex/master)
 
 ## Como desenvolver?
 
