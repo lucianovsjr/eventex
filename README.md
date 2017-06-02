@@ -1,6 +1,7 @@
 # Eventex
 
 Sistema de Eventos Encomendado pela Morena.
+[![Build Status](https://travis-ci.org/lucianovsjr/eventex.svg?branch=master)](https://travis-ci.org/lucianovsjr/eventex)
 
 ## Como desenvolver?
 
